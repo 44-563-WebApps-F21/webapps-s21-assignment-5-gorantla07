@@ -22,3 +22,12 @@
 {
     background-color: chocolate;
 }
+
+.tableh
+{
+    background-color: #1affff;
+}
+tr:nth-child(even)
+{
+    background-color:  #e6ffff;
+}
