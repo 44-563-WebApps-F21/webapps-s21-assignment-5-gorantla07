@@ -31,3 +31,16 @@ tr:nth-child(even)
 {
     background-color:  #e6ffff;
 }
+.btn-primary
+{
+    background-color: #1affff !important;
+    border-radius: 7em !important;
+    color: black !important;
+}
+
+.navcolor
+{
+    background-color: #1affff;
+    color: black;
+}
+
