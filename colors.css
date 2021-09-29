@@ -34,7 +34,7 @@ tr:nth-child(even)
 .btn-primary
 {
     background-color: #1affff !important;
-    border-radius: 7em !important;
+    border-radius: 5em !important;
     color: black !important;
 }
 
